@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Technopreneur** from **Bogor, Indonesia 🇮🇩**  
 Focused on building scalable mobile applications, backend systems, digital marketing strategies, and exploring cyber security.
@@ -22,7 +22,7 @@ Focused on building scalable mobile applications, backend systems, digital marke
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Mobile Development
 <p align="left">
@@ -41,7 +41,7 @@ Focused on building scalable mobile applications, backend systems, digital marke
 
 ---
 
-## 📈 Digital Marketing Skills
+## Digital Marketing Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge"/>
@@ -49,12 +49,12 @@ Focused on building scalable mobile applications, backend systems, digital marke
   <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
   <img src="https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Content%20Marketing-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Social%20Media%20Strategy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Social%20Media%20Strategy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> -->
 </p>
 
 ---
 
-## 🛡️ Cyber Security & Networking
+## Cyber Security & Networking
 
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -67,24 +67,7 @@ Focused on building scalable mobile applications, backend systems, digital marke
 
 ---
 
-## 📊 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=br0farhan&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br0farhan&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 Github Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=br0farhan&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Currently Learning
+## Currently Learning
 
 - Riverpod Clean Architecture
 - Advanced Flutter Animation
@@ -97,7 +80,7 @@ Focused on building scalable mobile applications, backend systems, digital marke
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/br0farhan">
