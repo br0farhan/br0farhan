@@ -2,7 +2,7 @@
 
 # Hi there, I'm Farhan 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Senior+Mobile+Engineer;Flutter+Developer;Cyber+Security+Enthusiast;Laravel+Backend+Developer;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Mobile+Engineer;Flutter+Developer;Cyber+Security+Enthusiast;Laravel+Backend+Developer;Open+Source+Contributor" />
 
 </div>
 
@@ -13,11 +13,11 @@
 I'm a passionate **Technopreneur** from **Bogor, Indonesia 🇮🇩**  
 Focused on building scalable mobile applications, backend systems, and exploring cyber security.
 
-- 🔭 Currently building apps using **Flutter & Firebase**
-- 🌱 Learning advanced **Riverpod Architecture**
-- 🧠 Exploring **Cyber Security & Bug Hunting**
-- 🧑‍💻 Love contributing to open source projects
-- ⚡ Fun fact: *Sharing knowledge is magic* 🐰
+- Currently building apps using **Flutter & Firebase**
+- Learning advanced **Riverpod Architecture**
+- Exploring **Cyber Security & Bug Hunting**
+- Love contributing to open source projects
+- Fun fact: *Sharing knowledge is magic* 🐰
 
 ---
 
@@ -53,24 +53,10 @@ Focused on building scalable mobile applications, backend systems, and exploring
 
 ---
 
-## 📊 Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=br0farhan&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br0farhan&layout=compact&theme=tokyonight" height="180"/>
-</p>
 
----
 
-## 🔥 Github Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=br0farhan&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Currently Learning
+## Currently Learning
 
 - Riverpod Clean Architecture
 - Advanced Flutter Animation
@@ -81,7 +67,7 @@ Focused on building scalable mobile applications, backend systems, and exploring
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/br0farhan">
@@ -99,7 +85,3 @@ Focused on building scalable mobile applications, backend systems, and exploring
 
 ---
 
-## 🐍 Contribution Snake
-
-```txt
-Generating contribution graph snake animation...
