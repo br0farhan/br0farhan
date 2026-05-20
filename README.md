@@ -18,7 +18,6 @@ Focused on building scalable mobile applications, backend systems, digital marke
 - Exploring **Cyber Security & Bug Hunting**
 - Experienced in **SEO, SEM, and Digital Marketing**
 - Love contributing to open source projects
-- Fun fact: *Sharing knowledge is magic* 🐰
 
 ---
 
