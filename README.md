@@ -73,7 +73,6 @@ Focused on building scalable mobile applications, backend systems, digital marke
 - Advanced Flutter Animation
 - Penetration Testing
 - Web Security
-- API Security
 - Reverse Engineering Basics
 - Advanced SEO Optimization
 - Performance Marketing Strategy
